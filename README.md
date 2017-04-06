@@ -18,7 +18,8 @@ The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData 
 
             Complete section “Choose APIs to access” 
             Register App. 
-            Save Generated ClientID. This is required for both <i><u>PBIPushData SSIS Component</u></i> and <i><u>PBIHelper</u></i> application.
+            Save Generated ClientID. This is required for both PBIPushData SSIS Component and PBIHelper application.
+            
 <h3>Step 2: Azure Permissions</h3>
       Sign in to your Azure account: https://manage.windowsazure.com/
          Click on option Active Directory.
