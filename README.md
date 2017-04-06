@@ -22,8 +22,8 @@ The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData 
             
 <h3>Step 2: Azure Permissions</h3>
       Sign in to your Azure account: https://manage.windowsazure.com/
-         Click on option Active Directory.
-         Click on your native application (registered in Step 3) to manage.
+         <br />Click on option Active Directory.
+         Click on your native application (registered in Step 1) to manage.
          Click on configure to provide permissions.
 
           NOTE: If your application is not listed, add your application and provide permissions.
