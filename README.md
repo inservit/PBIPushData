@@ -12,13 +12,15 @@ The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData 
       Sign in to <a href="https://dev.powerbi.com/apps">https://dev.powerbi.com/apps</a> using your Power BI account.
             Complete section "Tell us about your app" <br />
               Example:
+<br />              
                   App Name: PBIPushData
-                  AppType : Choose Native App
-                  URL     : https://login.live.com/oauth20_desktop.srf 
+<br />                  AppType : Choose Native App
+<br />                  URL     : https://login.live.com/oauth20_desktop.srf 
 
-            Complete section “Choose APIs to access” 
-            Register App. 
-            Save Generated ClientID. This is required for both PBIPushData SSIS Component and PBIHelper application.
+<br />            Complete section “Choose APIs to access” 
+<br />            Register App. 
+<br />            Save Generated ClientID. 
+<br />            This is required for both PBIPushData SSIS Component and PBIHelper application.
             
 <h3>Step 2: Azure Permissions</h3>
       Sign in to your Azure account: https://manage.windowsazure.com/
