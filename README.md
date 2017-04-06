@@ -1,24 +1,23 @@
 # Push Data to Power BI Datasets/Tables
 
-A tiny example to push data to datasets/tables on Power BI service using custom SSIS component.
-The example uses PBIPushData - custom SSIS component and PBIHelper - Desktop App, both available for free.
-PBIPushData component & PBIHelper works with free as well as Pro Power BI service.
+A tiny example to push data to datasets/tables on Power BI service using custom SSIS component.<br />
+The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData - custom SSIS component</a> and <a href="http://www.inservit.com/pbihelper.html">PBIHelper - Desktop App</a>, both available for free.
+<br />PBIPushData component & PBIHelper works with free as well as Pro Power BI service.
 
 <a href="http://www.inservit.com/pbidemo">Click here</a> for details on prerequisites, Power BI API restrictions, workarounds and detailed instruction on executing the example.
 
 <h2>Prerequisites</h2>
 
 <h3>Step 1: Register App with Power BI Service</h3>
-      <a href="http://www.inservit.com/downloads.html">Download and install PBIPushData SSIS Component</a> 
-            Sign in to <a href="https://dev.powerbi.com/apps">https://dev.powerbi.com/apps</a> using your Power BI account.
-            Complete section "Tell us about your app"
+      Sign in to <a href="https://dev.powerbi.com/apps">https://dev.powerbi.com/apps</a> using your Power BI account.
+            Complete section "Tell us about your app" <br />
               Example:
-                  <b>App Name:</b> PBIPushData
-                  <b>AppType :</b>  Choose Native App
-                  <b>URL     :</b> https://login.live.com/oauth20_desktop.srf
+                  App Name: PBIPushData
+                  AppType : Choose Native App
+                  URL     : https://login.live.com/oauth20_desktop.srf 
 
-            Complete section “Choose APIs to access”
-            Register App.
+            Complete section “Choose APIs to access” 
+            Register App. 
             Save Generated ClientID. This is required for both <i><u>PBIPushData SSIS Component</u></i> and <i><u>PBIHelper</u></i> application.
 <h3>Step 2: Azure Permissions</h3>
       Sign in to your Azure account: https://manage.windowsazure.com/
