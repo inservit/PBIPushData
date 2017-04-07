@@ -32,7 +32,8 @@ The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData 
 
 <h3>Step 3: Create Datasets and Tables Using Power BI Helper</h3>
       <a href="http://www.inservit.com/pbiapiinfo.html">Power BI APIs have restrictions for pushing data to Power BI service</a>.   Data can be push to datasets/tables created using Power BI API. 
-      Use Power BI Helper application to crete Datasets and Tables to match source data.
+<br />      <a href="http://www.inservit.com/downloads.html"> Download and install Power BI Helper application.</a>
+<br />      Use Power BI Helper application to crete Datasets and Tables.
       
 <br />      <a href="http://www.inservit.com/pbidemo">Click here for detailed instructions.</a>
       
