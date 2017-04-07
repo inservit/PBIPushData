@@ -24,21 +24,21 @@ The example uses <a href="http://www.inservit.com/pbipushdata.html">PBIPushData 
             
 <h3>Step 2: Azure Permissions</h3>
       Sign in to your Azure account: https://manage.windowsazure.com/
-         <br />Click on option Active Directory.
-         Click on your native application (registered in Step 1) to manage.
-         Click on configure to provide permissions.
+<br />   Click on option Active Directory.
+<br />   Click on your native application (registered in Step 1) to manage.
+<br />   Click on configure to provide permissions.
 
-          NOTE: If your application is not listed, add your application and provide permissions.
+<br />   NOTE: If your application is not listed, add your application and provide permissions.
 
 <h3>Step 3: Create Datasets and Tables Using Power BI Helper</h3>
       <a href="http://www.inservit.com/pbiapiinfo.html">Power BI APIs have restrictions for pushing data to Power BI service</a>.   Data can be push to datasets/tables created using Power BI API. 
       Use Power BI Helper application to crete Datasets and Tables to match source data.
       
-      <a href="http://www.inservit.com/pbidemo">Click here for detailed instructions.</a>
+<br />      <a href="http://www.inservit.com/pbidemo">Click here for detailed instructions.</a>
       
 <h3>Step 4: Install PBIPushData SSIS component. </h3>
      <a href="http://www.inservit.com/downloads.html"> Download and install SSIS Destination Component PBIPushData.</a>
      
-     Open the package and configure PBIPushData component.
+<br />     Open the package and configure PBIPushData component.
      
-     <a href="http://www.inservit.com/pbidemo">Click here for detailed instructions.</a>
+<a href="http://www.inservit.com/pbidemo">Click here for detailed instructions.</a>
